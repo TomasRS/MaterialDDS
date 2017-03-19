@@ -3,7 +3,7 @@
 * [Mini TP para arrancar](https://drive.google.com/open?id=0B_k1QNSnaW5UQ0FtY2Z0S3pqams) (TP para codificar en Java los temas vistos en PdeP)
 * [Guía de lenguajes para DDS](https://drive.google.com/open?id=0B_k1QNSnaW5UT3k0VGNJelNGWUE) (Guía de lenguajes al estilo PdeP para los distintos lenguajes optativos en Diseño)
 
-### *Git y MarkDown*
+### *Guías - Git y MarkDown*
 * [Git CheatSheet](https://drive.google.com/file/d/0B_k1QNSnaW5UcTFTTlFoY3h5NWM/view?usp=sharing) (Resumen de las instrucciones de línea de comando de git)
 * [MarkDown CheatSheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) (Hoja de referencia de estilizado markdown, para que se vean bien los REAME.md como este que están leyendo)
 
