@@ -1,6 +1,10 @@
 # Material para el TP de DDS
 
-### *Importantes - Eclipse y Java*
+### *Importante - Instalaciones*
+1. [Java SDK Versión 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html?ssSourceSiteId=otnes)
+2. [Eclipse Neon (Marzo 2017)](http://www.eclipse.org/downloads/packages/eclipse-ide-java-developers/neon2)
+
+### *Importante - Para comenzar*
 * [Resumen de Java](https://drive.google.com/open?id=0B_k1QNSnaW5UaEJhN1lvWVlMbnc) (Resumen de temas vistos en PdeP aplicados en Java)
 * [Mini TP para arrancar](https://drive.google.com/open?id=0B_k1QNSnaW5UaE1oU05vb1VSLVU) (TP para codificar en Java los temas vistos en PdeP)
 * [Guía de lenguajes para DDS](https://drive.google.com/open?id=0B_k1QNSnaW5UT3k0VGNJelNGWUE) (Guía de lenguajes al estilo PdeP para los distintos lenguajes optativos en Diseño)
