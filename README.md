@@ -8,7 +8,7 @@
 * [Resumen de Java](https://drive.google.com/open?id=0B_k1QNSnaW5UaEJhN1lvWVlMbnc) (Resumen de temas vistos en PdeP aplicados en Java)
 * [Mini TP para arrancar](https://drive.google.com/open?id=0B_k1QNSnaW5UaE1oU05vb1VSLVU) (TP para codificar en Java los temas vistos en PdeP)
 
-### *Guías - Git y MarkDown*
+### *Guías*
 * [Maven](https://docs.google.com/document/d/15-DWw5429fDFQy4G_hgQFozgFFLcJaNAH3aTivw97wM/edit#heading=h.z9uecyvjl84y)
 * [Resumen Git](https://docs.google.com/document/d/1nadC6-rwR2eRC0FYFWuq22pCRyZWXmCiPBuQ0cD-vMI/edit)
 * [Git CheatSheet](https://drive.google.com/file/d/0B_k1QNSnaW5UcTFTTlFoY3h5NWM/view?usp=sharing) (Resumen muy corto de las instrucciones de línea de comando de git)
